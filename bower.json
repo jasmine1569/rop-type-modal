@@ -1,0 +1,18 @@
+{
+  "name": "ui-kit-scaffold",
+  "version": "0.0.1",
+  "description": "Simple Scaffolding Guide For Your Next UI Kit",
+  "keywords": [
+    "ui kit"
+  ],
+  "homepage": "http://csun-metalab.github.io/ui-kit-scaffold",
+  "main": [
+    "src/js/ui-kit.js",
+    "src/sass/ui-kit.scss"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bxslider-4": "^4.2.5",
+    "jquery": "^3.1.1"
+  }
+}
